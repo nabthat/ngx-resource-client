@@ -1,0 +1,1 @@
+//# sourceMappingURL=data-resource.js.map
